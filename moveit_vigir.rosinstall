@@ -1,15 +1,15 @@
-- git: {local-name: src/moveit/moveit_core, uri: 'https://github.com/skohlbr/moveit_core.git', version: 'fix_cartesian_planning_kinematics_options_use'}
-- git: {local-name: src/moveit/moveit_planners, uri: 'https://github.com/ros-planning/moveit_planners.git', version: 'c9a2450c498a0d0e7777e7acb19569db36b7bc77'}
-- git: {local-name: src/moveit/moveit_ros, uri: 'https://github.com/ros-planning/moveit_ros.git', version: '7de0aab5b42ccb3d806b7f38062d9954669824dd'}
-- git: {local-name: src/moveit/moveit_setup_assistant, uri: 'https://github.com/ros-planning/moveit_setup_assistant.git', version: '4768ff4d7d822955bfc7f7c7b544a26f110a204d'}
-- git: {local-name: src/moveit/moveit_msgs, uri: 'https://github.com/ros-planning/moveit_msgs.git', version: '682398c17ee8e9ea9ce79251645255a8f0240486'}
+- git: {local-name: src/moveit/moveit_core, uri: 'https://github.com/ros-planning/moveit_core.git', version: 'hydro-devel'}
+- git: {local-name: src/moveit/moveit_planners, uri: 'https://github.com/ros-planning/moveit_planners.git', version: 'hydro-devel'}
+- git: {local-name: src/moveit/moveit_ros, uri: 'https://github.com/ros-planning/moveit_ros.git', version: 'hydro-devel'}
+- git: {local-name: src/moveit/moveit_setup_assistant, uri: 'https://github.com/ros-planning/moveit_setup_assistant.git', version: 'hydro-devel'}
+- git: {local-name: src/moveit/moveit_msgs, uri: 'https://github.com/ros-planning/moveit_msgs.git', version: 'hydro-devel'}
 #- git: {local-name: src/moveit/moveit_experimental, uri: 'https://github.com/ros-planning/moveit_experimental.git', version: 'hydro-devel'}
-- git: {local-name: src/moveit/moveit_pr2, uri: 'https://github.com/ros-planning/moveit_pr2.git', version: '51254ae763dc05de48288e1c16bb6f381999e744'}
-# - git: {local-name: src/moveit/moveit_robots, uri: 'https://github.com/ros-planning/moveit_robots.git', version: '3d367309bb719e36a2ba838e8412df041af7398f'}
-- git: {local-name: src/moveit/moveit_commander, uri: 'https://github.com/ros-planning/moveit_commander.git', version: 'd4168fa983481d866aa40d46f363dafe65795bed'}
-- git: {local-name: src/moveit/moveit_docs, uri: 'https://github.com/ros-planning/moveit_docs.git', version: '366951af7c126704b9d59700503a110441c7e6f1'}
-- git: {local-name: src/moveit/geometric_shapes, uri: 'https://github.com/ros-planning/geometric_shapes.git', version: 'a7c3efa6cdf0768b4fe75aab0f649ab57c6c3a85'}
-- git: {local-name: src/moveit/manipulation_msgs, uri: 'https://github.com/ros-interactive-manipulation/manipulation_msgs.git', version: '2e4d620aa6e84aeaa6860fc52a18908ffa77662e'}
-- git: {local-name: src/moveit/object_recognition_msgs, uri: 'https://github.com/wg-perception/object_recognition_msgs.git', version: 'f9ea21393972cd2fbcf24ff0adb455aaaf252550'}
-- git: {local-name: src/moveit/household_objects_database_msgs, uri: 'https://github.com/ros-interactive-manipulation/household_objects_database_msgs.git', version: '0a9caa1275966b4434d25d7e1af02c84210f5b12'}
-- git: {local-name: src/moveit/srdfdom, uri: 'https://github.com/ros-planning/srdfdom.git', version: '4d4e1453061737caaeee2c396abf8698580a7a05'}
+- git: {local-name: src/moveit/moveit_pr2, uri: 'https://github.com/ros-planning/moveit_pr2.git', version: 'hydro-devel'}
+# - git: {local-name: src/moveit/moveit_robots, uri: 'https://github.com/ros-planning/moveit_robots.git', version: 'hydro-devel'}
+- git: {local-name: src/moveit/moveit_commander, uri: 'https://github.com/ros-planning/moveit_commander.git', version: 'hydro-devel'}
+- git: {local-name: src/moveit/moveit_docs, uri: 'https://github.com/ros-planning/moveit_docs.git', version: 'hydro-devel'}
+- git: {local-name: src/moveit/geometric_shapes, uri: 'https://github.com/ros-planning/geometric_shapes.git', version: 'hydro-devel'}
+- git: {local-name: src/moveit/manipulation_msgs, uri: 'https://github.com/ros-interactive-manipulation/manipulation_msgs.git', version: 'hydro-devel'}
+- git: {local-name: src/moveit/object_recognition_msgs, uri: 'https://github.com/wg-perception/object_recognition_msgs.git', version: 'master'}
+- git: {local-name: src/moveit/household_objects_database_msgs, uri: 'https://github.com/ros-interactive-manipulation/household_objects_database_msgs.git', version: 'hydro-devel'}
+- git: {local-name: src/moveit/srdfdom, uri: 'https://github.com/ros-planning/srdfdom.git', version: 'master'}
