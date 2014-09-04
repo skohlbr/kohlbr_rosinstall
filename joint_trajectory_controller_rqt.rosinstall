@@ -1,0 +1,8 @@
+- git:
+    uri: https://github.com/ros-controls/ros_controllers.git
+    local-name: src/ros_controllers
+    version: indigo-devel
+- git:
+    uri: https://github.com/ros-controls/ros_control.git
+    local-name: src/ros_control
+    version: indigo-devel
