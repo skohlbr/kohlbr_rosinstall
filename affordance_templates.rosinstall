@@ -1,7 +1,7 @@
 - git:
     uri: https://github.com/swhart115/affordance_templates.git
     local-name: src/affordance_templates
-    version: feature/refactor
+    version: develop
 - git:
     uri: https://bitbucket.org/nasa_ros_pkg/nasa_r2_common.git
     local-name: src/nasa_r2_common
