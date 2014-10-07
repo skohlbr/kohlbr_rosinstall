@@ -1,0 +1,3 @@
+- git:
+    uri: https://github.com/jizhang-cmu/loam_continuous.git
+    local-name: src/loam_continuous
