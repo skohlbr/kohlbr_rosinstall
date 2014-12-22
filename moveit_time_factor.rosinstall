@@ -1,0 +1,14 @@
+- git: {local-name: src/moveit/moveit_core, uri: 'https://github.com/team-vigir/moveit_core.git', version: 'indigo-devel'}
+- git: {local-name: src/moveit/moveit_ros, uri: 'https://github.com/team-vigir/moveit_ros.git', version: 'indigo-devel'}
+- git: {local-name: src/moveit/moveit_msgs, uri: 'https://github.com/team-vigir/moveit_msgs.git', version: 'indigo-devel'}
+#- git: {local-name: src/moveit/moveit_setup_assistant, uri: 'https://github.com/ros-planning/moveit_setup_assistant.git', version: 'hydro-devel'}
+#- git: {local-name: src/moveit/moveit_experimental, uri: 'https://github.com/ros-planning/moveit_experimental.git', version: 'hydro-devel'}
+#- git: {local-name: src/moveit/moveit_pr2, uri: 'https://github.com/ros-planning/moveit_pr2.git', version: 'hydro-devel'}
+#- git: {local-name: src/moveit/moveit_robots, uri: 'https://github.com/ros-planning/moveit_robots.git', version: 'hydro-devel'}
+#- git: {local-name: src/moveit/moveit_commander, uri: 'https://github.com/ros-planning/moveit_commander.git', version: 'hydro-devel'}
+#- git: {local-name: src/moveit/moveit_docs, uri: 'https://github.com/ros-planning/moveit_docs.git', version: 'hydro-devel'}
+#- git: {local-name: src/moveit/geometric_shapes, uri: 'https://github.com/ros-planning/geometric_shapes.git', version: 'hydro-devel'}
+#- git: {local-name: src/moveit/manipulation_msgs, uri: 'https://github.com/ros-interactive-manipulation/manipulation_msgs.git', version: 'hydro-devel'}
+#- git: {local-name: src/moveit/object_recognition_msgs, uri: 'https://github.com/wg-perception/object_recognition_msgs.git', version: 'master'}
+#- git: {local-name: src/moveit/household_objects_database_msgs, uri: 'https://github.com/ros-interactive-manipulation/household_objects_database_msgs.git', version: 'hydro-devel'}
+#- git: {local-name: src/moveit/srdfdom, uri: 'https://github.com/ros-planning/srdfdom.git', version: 'master'}
