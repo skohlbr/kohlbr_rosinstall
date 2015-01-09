@@ -1,0 +1,12 @@
+- git:
+    uri: https://github.com/team-vigir/vigir_atlas_common.git
+    local-name: src/vigir_atlas_common
+    version: master
+- git:
+    uri: https://github.com/team-vigir/vigir_gazebo.git
+    local-name: src/vigir_gazebo
+    version: master
+- git:
+    uri: https://github.com/team-vigir/vigir_atlas_planning.git
+    local-name: src/vigir_atlas_planning
+    version: master
